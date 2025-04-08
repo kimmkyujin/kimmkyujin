@@ -1,5 +1,5 @@
-#Yeungnam University
-##Studnet
+# Yeungnam University
+## Studnet
 
 <!--
 **kimmkyujin/kimmkyujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
