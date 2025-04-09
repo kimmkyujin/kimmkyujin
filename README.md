@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=장학금_타고파%20)
 # STUDYING
-## C++
-## Python
-## HTML
-## HACKING
+### C++
+### Python
+### HTML
+### HACKING
 
 <!--
 **kimmkyujin/kimmkyujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
