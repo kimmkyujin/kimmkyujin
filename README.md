@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=KyuJin%20)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=장학금_타고파%20)
 
 <!--
 **kimmkyujin/kimmkyujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
