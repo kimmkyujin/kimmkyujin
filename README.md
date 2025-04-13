@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=장학금_타고파%20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyuJin&show_icons=true&theme=dracula)
 # STUDYING
 ### C++
 ### Python
